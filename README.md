@@ -37,7 +37,7 @@
 <a href="https://www.instagram.com/ifeelmohiit"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
- <a href="mailto:ifeelmohiit@gmail.com"> 
+ <a href="mailto:mr.nobita746287@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a> 
 <a href="https://www.github.com/ifeelmohiit"> 
